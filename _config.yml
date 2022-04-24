@@ -3,8 +3,6 @@ logo: "/images/athariq.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a Final-Year Student at Computer and Network Engineering Department, State Polytechnic of Ujung Pandang 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/athariq-fajri-b24915166">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
